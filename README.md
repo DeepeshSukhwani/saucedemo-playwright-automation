@@ -40,6 +40,7 @@ saucedemo-playwright-automation/
 ├── result.json
 ├── order_confirmation.png
 └── README.md
+```
 
 Prerequisites
 - Python 3
