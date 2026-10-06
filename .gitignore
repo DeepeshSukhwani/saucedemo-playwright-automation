@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IntelliJ IDEA
+.idea/
+
+# Environment / secrets
+.env
+
+# Playwright
+playwright-report/
+test-results/
+
+# OS
+.DS_Store
+Thumbs.db
