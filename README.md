@@ -33,7 +33,7 @@ It:
 ## Project Structure
 
 ```text
-rpa-take-home/
+saucedemo-playwright-automation/
 ├── test_playwright.py
 ├── input.json
 ├── products.json
